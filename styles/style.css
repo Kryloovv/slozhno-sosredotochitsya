@@ -262,7 +262,7 @@
 }
 
 .accent-link:hover {
-  border-bottom: 1px solid var(--title-color);
+  border-bottom: 1px solid var(--main-text-color);
 }
 
 .accent-link:focus-visible {
